@@ -13,6 +13,12 @@ HTTPS - https://github.com/JaKrau/ORM-E-Commerce-Backend.git
 SSH - git@github.com:JaKrau/ORM-E-Commerce-Backend.git        
 GitHuB CLI - gh repo clone JaKrau/ORM-E-Commerce-Backend       
 
+## Usage
+
+Walkthrough Video 
+
+[Module_13_Recording.webm](https://github.com/JaKrau/ORM-E-Commerce-Backend/assets/108687237/eb7ee443-9a53-4fd1-9aae-e1989e68cb2c)
+
 ```bash
 npm install
 ```
@@ -30,12 +36,6 @@ you will also need to source your db with the seed data using
 ```
 
 At this point your server is seeded and about ready to roll! Enter <node server.js> in your terminal, open Insomnia, and you're ready to query.
-
-## Usage
-
-Walkthrough Video 
-
-[Module_13_Recording.webm](https://github.com/JaKrau/ORM-E-Commerce-Backend/assets/108687237/eb7ee443-9a53-4fd1-9aae-e1989e68cb2c)
 
 
 ## Credits

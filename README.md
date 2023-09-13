@@ -40,8 +40,10 @@ Walkthrough Video
 
 ## Credits
 
-E-commerce Back End Starter Code cloned from git@github.com:coding-boot-camp/fantastic-umbrella.git
-This README's structure is courtesy of https://github.com/1willcobb/E_Com_Back_End/blob/main/README.md
+E-commerce Back End Starter Code 
+cloned from git@github.com:coding-boot-camp/fantastic-umbrella.git
+
+This README's structure is courtesy of https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 
 ## License
